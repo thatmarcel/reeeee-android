@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Reeeee" parent="Theme.Material3.DynamicColors.DayNight">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="android:windowSplashScreenBackground">@color/ic_launcher_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_screen_icon</item>
+    </style>
+</resources>

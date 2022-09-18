@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Reeeee" parent="Theme.Material3.DynamicColors.DayNight">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Reeeee" parent="Base.Theme.Reeeee" />
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">reeeee</string>
+
+    <string name="ip_address">IP address</string>
+    <string name="password">Password</string>
+    <string name="upload_file">Upload file</string>
+    <string name="overview_connection_note">
+        The password is not the same as your tablet\'s passcode.
+        Go to Settings > Help > Copyrights and licenses to find the correct password.
+
+        \n\nAdditionally, you need to enable the USB web interface in Settings > Storage.
+        This needs to be done every time your tablet restarts.
+    </string>
+    <string name="find_ip_address_button_text">Automatically find IP address</string>
+</resources>
